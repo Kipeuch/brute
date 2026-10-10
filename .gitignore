@@ -1,11 +1,3 @@
-# сборка
-/bin/
-
-# большие словари (не храним в git)
-/wordlists/rockyou.txt
-
-
-
 # Created by https://www.toptal.com/developers/gitignore/api/goland
 # Edit at https://www.toptal.com/developers/gitignore?templates=goland
 
@@ -121,5 +113,15 @@ fabric.properties
 # Azure Toolkit for IntelliJ plugin
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
+
+
+# сборка
+/bin/
+
+# большие словари (не храним в git)
+/wordlists/rockyou.txt
+
+
+
 
 # End of https://www.toptal.com/developers/gitignore/api/goland
