@@ -115,6 +115,9 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 
+# вся папка IDE целиком (перекрывает granular-правила шаблона GoLand выше)
+.idea/
+
 # сборка
 /bin/
 
