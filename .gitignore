@@ -121,9 +121,6 @@ fabric.properties
 # сборка
 /bin/
 
-# большие словари (не храним в git)
-/wordlists/rockyou.txt
-
 
 
 
